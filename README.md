@@ -2,16 +2,33 @@
 
 ## 📈 Recent Project: Olympic Games Dashboard
 
-![Olympic Dashboard](https://path-to-your-dashboard-image.jpg)
+### 📌 Overview:
+This interactive Power BI dashboard presents a **comprehensive analysis of Olympic Games data** across several dimensions. It offers valuable insights into **medal distributions**, **gender participation**, **sports performance**, and **host city trends**.
 
-🔹 **Tool Used**: Power BI  
+### 🛠️ Tools & Skills Applied:
+- **Power BI** for interactive visuals and dashboards  
+- **DAX** for calculated columns and measures  
+- **Data Modeling** for relationships between athlete, medal, event, and country tables  
+- **Data Cleaning & Transformation** using Power Query  
 
-🔹 **Data Covered**: Medal distribution by Sport, Event, Country, City, Year, Gender, and Season  
+### 🔍 Dashboard Highlights:
+- 🥇 **Total Medal Counts**: Gold, Silver, Bronze, and Overall
+- 🏟️ **Sport & Event Analysis**: Visual breakdown by most successful sports (Athletics, Swimming, etc.)
+- 🌍 **Country-wise Comparison**: Which nations lead the medal tally?
+- 🏙️ **City-wise Host Analysis**: Medal distribution across host cities like London, Athens, and Tokyo
+- 📆 **Year-wise Medal Trends**: Tree map showing medal counts by Olympic year
+- 🚻 **Gender-based Analysis**: Medal count split by Male and Female athletes
+- ❄️☀️ **Season Filter**: Summer vs. Winter Olympics
+  
+- 🔧 **Interactive Slicers**:
+  - Season  
+  - Organizing City  
+  - Athlete Age  
+  - Athlete Height  
 
-🔹 **Features**:  
-  - Interactive slicers (Season, City, Age, Height)  
-  - Gold, Silver, Bronze medal counts  
-  - Visual storytelling with charts and filters  
+### 🎯 Purpose:
+To demonstrate **real-world dashboard creation** for beginners and analysts. The project shows how data can tell powerful stories using the right visuals and interactivity.
+
 
 🔗 https://github.com/AmitBansodDataAnalysit/Dashboard
 
